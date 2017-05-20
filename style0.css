@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+html, body{
+color: #777777;
+border-color: #dddddd;
+font-size: 18px;
+line-height: 34px;
+font-family: Arial, Helvetica, sans-serif;
+background-image: url("http://www.hdwallpapers.in/walls/alphabet_island-wide.jpg");
+background-repeat: no-repeat;
+height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    height:auto;
+    height: 100%;
+    margin:0 auto -4em;
+
+}
+.mainHeader
+#game{
+    text-align: left;
+
+}
+#container{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear:both;
+
+}
+.footer, .push {
+    height: 4em;
+    text-align: center;
+}
